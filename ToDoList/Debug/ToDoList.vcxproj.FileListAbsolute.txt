@@ -1,0 +1,2 @@
+C:\C++\ToDoList\Debug\ToDoList.exe
+C:\C++\ToDoList\Debug\ToDoList.pdb
